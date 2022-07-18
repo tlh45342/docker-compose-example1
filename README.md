@@ -1,5 +1,5 @@
 # docker-compose Eample
-example code for creating a docker container.
+example  for creating a docker container.
 
 ## To Get it
 ```bash
