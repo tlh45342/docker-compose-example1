@@ -1,5 +1,5 @@
 # docker-compose Eample
-example code for pulling financial data using polygon-io
+example code for creating a docker container.
 
 ## INSTALLATION
 
@@ -13,4 +13,10 @@ To make sure you have all the python modules installed.
 docker container prune -f
 docker image prune -a -f
 docker build .
+```
+
+Remember: to use as a deteached container
+
+```bash
+docker-compose up -d
 ```
