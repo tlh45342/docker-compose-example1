@@ -5,7 +5,7 @@ example  for creating a docker container.
 ```bash
 git clone https://github.com/tlh45342/docker-compose-example1.git
 ```
-## House Cleaning.
+## House Cleaning
 To remove unwanted containers and dependent images from a system.
 
 ```bash
