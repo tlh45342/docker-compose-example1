@@ -1,4 +1,4 @@
-# docker-compose Eample
+# docker-compose Example
 example  for creating a docker container.
 
 ## To Get it
