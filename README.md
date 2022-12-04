@@ -23,3 +23,7 @@ Remember: to use as a deteached container
 ```bash
 docker-compose up -d
 ```
+
+```bash
+docker build github.com/tlh45342/docker-compose-example1#main
+```
